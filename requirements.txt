@@ -12,3 +12,4 @@ plotly
 streamlit==1.15.2 
 lime
 seaborn==0.12.1
+numerize
